@@ -1,1 +1,3 @@
-# Training_Material-Knowledge_Graphs
+# Training_Material Knowledge Graphs and Linked Open Data
+
+
