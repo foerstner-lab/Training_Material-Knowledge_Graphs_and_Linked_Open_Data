@@ -18,3 +18,5 @@
 ```
 
 
+1. from data to knowledge
+  - the same entity can have different meanings (Jaguar = animal, sports team, automobile, video game console) 
