@@ -79,6 +79,21 @@ graph TD
     PropertyGraphIndexes -->|enhance| IndexingEdges[Edge Indexing]
 ```
 
+# Knowledge Graph != graphical representation
+
+A common pitfall in working with Knowledge Graphs is confusing the
+graphical representation with the actual graph structure. The visual
+depiction of a Knowledge Graph, often illustrated as nodes and edges
+on a diagram, is merely a static representation of the underlying data
+model. This figure is helpful for understanding and communicating the
+graph's structure but does not encapsulate the full dynamics or
+complexities of the actual graph. The true Knowledge Graph resides in
+the data and relationships encoded in the system, which can be much
+more intricate and extend beyond what is depicted in any single visual
+representation. Thus, it is crucial to remember that the diagram is a
+tool for visualization, not a comprehensive portrayal of the graph's
+capabilities or data richness.
+
 # Knowledge graphs vs. traditional relational data bases
 
 Knowledge graphs and traditional relational databases serve the
