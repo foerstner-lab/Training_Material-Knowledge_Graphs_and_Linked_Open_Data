@@ -28,7 +28,6 @@ graph TD
     KnowledgeGraph -->|structured by| StructuredByOntologies[Ontologies]
     KnowledgeGraph -->|enables| EnablesQuerying[Querying]
     KnowledgeGraph -->|supports| SupportsReasoning[Reasoning]
-    KnowledgeGraph -->|used in| UsedInApplications[Applications]
     KnowledgeGraph -->|can be| CanBePropertyGraph[Property Graph]
 
     ComposedOfNodes -->|represent| RepresentEntities[Entities]
@@ -44,23 +43,12 @@ graph TD
     SupportsReasoning -->|involves| InvolvesInference[Inference]
     SupportsReasoning -->|utilizes| UtilizeRuleEngines[Rule Engines]
 
-    UsedInApplications -->|in| InSearchEngines[Search Engines]
-    UsedInApplications -->|in| InRecommendationSystems[Recommendation Systems]
-    UsedInApplications -->|in| InNaturalLanguageProcessing[Natural Language Processing]
-    UsedInApplications -->|in| InDataIntegration[Data Integration]
-
     CanBePropertyGraph -->|composed of| PropertyGraphNodes[Nodes]
     CanBePropertyGraph -->|connected by| PropertyGraphEdges[Edges]
     CanBePropertyGraph -->|uses| PropertyGraphLabels[Labels]
     CanBePropertyGraph -->|includes| PropertyGraphProperties[Properties]
     CanBePropertyGraph -->|can have| PropertyGraphTypes[Types]
     CanBePropertyGraph -->|can have| PropertyGraphIndexes[Indexes]
-
-    PropertyGraphNodes -->|represent| PropertyGraphEntities[Entities]
-    PropertyGraphNodes -->|include| PropertyGraphConcepts[Concepts]
-
-    PropertyGraphEdges -->|represent| PropertyGraphRelationships[Relationships]
-    PropertyGraphEdges -->|include| PropertyGraphProperties[Properties]
 
     PropertyGraphLabels -->|used for| LabelingNodes[Node Labeling]
     PropertyGraphLabels -->|used for| LabelingEdges[Edge Labeling]
