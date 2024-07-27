@@ -20,6 +20,7 @@ relationship. For instance, the triple ("The Matrix", "directed by",
 "Lana Wachowski") captures the relationship between a movie and its
 director.
 
+
 ```mermaid
 graph TD
     Triples[Triples]
