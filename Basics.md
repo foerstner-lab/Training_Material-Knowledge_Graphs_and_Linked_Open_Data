@@ -12,6 +12,11 @@ Graph about a movie industry, nodes could include actors and films,
 and edges would capture relationships like "acted in" or "produced
 by."
 
+```mermaid
+graph LR
+    A[Subject] -->|Predicate| C[Object]
+```	
+
 The information in a Knowledge Graph is typically stored in a triple
 store, a specialized type of database optimized for handling data in
 the form of triples. A triple consists of a subject, predicate, and
