@@ -1,4 +1,4 @@
-# Introdcution
+# Introduction
 
 Knowledge Graphs are a sophisticated tools to organize and represent
 knowledge, central to many applications in artificial intelligence and
