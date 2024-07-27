@@ -15,7 +15,7 @@ by."
 ```mermaid
 graph LR
     A[Subject] -->|Predicate| C[Object]
-```	
+```
 
 The information in a Knowledge Graph is typically stored in a triple
 store, a specialized type of database optimized for handling data in
@@ -42,6 +42,45 @@ graph TD
     Value -->|examples| Number[Number]
     EntityReference -->|examples| Resource[Resource]
     EntityReference -->|examples| URI[URI]
+```
+
+
+```mermaid
+graph TD
+    %% Classes
+    Human[Human]
+    Director[Director]
+    Movie[Movie]
+    ScienceFictionActionMovie[Science Fiction Action Movie]
+    ScienceFictionMovie[Science Fiction Movie]
+    ActionMovie[Action Movie]
+
+    %% Instances
+    TheMatrix[The Matrix]
+    LanaWachowski[Lana Wachowski]
+    AndyWachowski[Andy Wachowski]
+
+    %% Properties
+    ReleaseYear[1999]
+
+    %% Relationships
+    TheMatrix -->|is a| ScienceFictionActionMovie
+    LanaWachowski -->|is a| Director
+    AndyWachowski -->|is a| Director
+    Director -->|subclass of| Human
+    ScienceFictionActionMovie -->|subclass of| ActionMovie
+    ScienceFictionActionMovie -->|subclass of| ScienceFictionMovie
+    ActionMovie -->|subclass of| Movie
+    ScienceFictionMovie -->|subclass of| Movie
+
+    %% Specific relationships
+    TheMatrix -->|is directed by| LanaWachowski
+    TheMatrix -->|is directed by| AndyWachowski
+    TheMatrix -->|has release year| ReleaseYear
+
+    %% Sibling relationships
+    LanaWachowski -->|is sister of| AndyWachowski
+    AndyWachowski -->|is brother of| LanaWachowski
 ```
 
 
