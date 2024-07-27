@@ -20,27 +20,6 @@ relationship. For instance, the triple ("The Matrix", "directed by",
 "Lana Wachowski") captures the relationship between a movie and its
 director.
 
-<figure>
-  <div class="mermaid">
-graph TD
-    Triples[Triples]
-    Triples -->|has| Subject[Subject]
-    Triples -->|has| Predicate[Predicate]
-    Triples -->|has| Object[Object]
-
-    Subject -->|represents| Entity[Entity]
-    Predicate -->|defines| Relation[Relation]
-    Object -->|represents| Value[Value]
-    Object -->|represents| EntityReference[Entity]
-
-    Value -->|examples| String[String]
-    Value -->|examples| Number[Number]
-    EntityReference -->|examples| Resource[Resource]
-    EntityReference -->|examples| URI[URI]
-  </div>
-  <figcaption>Figure 1: Triples</figcaption>
-</figure>
-
 ```mermaid
 graph TD
     Triples[Triples]
