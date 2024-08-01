@@ -228,6 +228,7 @@ Knowledge Graph or Linked Data.
 - [Introducing the Open Research Knowledge Graph (ORKG)](https://www.youtube.com/watch?v=d3AqXwPIiGc)
 - [How to: Create visualizations in the Open Research Knowledge Graph (ORKG)](https://www.youtube.com/watch?v=R26TirvZWa0) 
 - [Excursus: DBpedia Knowledge Graph](https://www.youtube.com/watch?v=kxHTEZQSplA)
+- https://github.com/SuLab/WikidataIntegrator
 
 ## Glossary
 
