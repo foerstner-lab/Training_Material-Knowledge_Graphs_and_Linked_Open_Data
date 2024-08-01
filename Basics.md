@@ -211,6 +211,24 @@ framework, as seen in large-scale knowledge graphs like Google’s
 Knowledge Graph or Linked Data.
 
 
+## To sort:
+
+- A review of the semantic web https://dl.acm.org/doi/10.1145/3397512
+- Knowledge Graphs https://dl.acm.org/doi/10.1145/3418294
+
+- [What is the Resource Description Framework (RDF)?](https://www.youtube.com/watch?v=NzzAxEPpuJQ)
+- [RDF and OWL : the powerful duo, Tara Raafat](https://www.youtube.com/watch?v=zteyEk9LADs)
+- [SPARQL in 11 minutes](https://www.youtube.com/watch?v=FvGndkpa4K0)
+- [The History of Wikidata](https://www.youtube.com/watch?v=P3-nklyrDx4)
+- [Wikidata Sparql Query Tutorial](https://www.youtube.com/watch?v=1jHoUkj_mKw)
+- [A Beginners Guide to Schema.org](https://www.youtube.com/watch?v=_HFRnsv7wFA)
+- [Introduction to Wikibase (part 1)](https://www.youtube.com/watch?v=dCAjhjeJpgY)
+- [Neo4j in 100 Seconds](https://www.youtube.com/watch?v=T6L9EoBy8Zk)
+- [Intro to Graph Databases Episode #3 - Property Graph Model](https://www.youtube.com/watch?v=NH6WoJHN4UA)
+- [Introducing the Open Research Knowledge Graph (ORKG)](https://www.youtube.com/watch?v=d3AqXwPIiGc)
+- [How to: Create visualizations in the Open Research Knowledge Graph (ORKG)](https://www.youtube.com/watch?v=R26TirvZWa0) 
+- [Excursus: DBpedia Knowledge Graph](https://www.youtube.com/watch?v=kxHTEZQSplA)
+
 ## Glossary
 
 - Semantics
