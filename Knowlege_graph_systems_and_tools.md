@@ -1,3 +1,4 @@
+## Systems
 
 | System                                                         | Description                                                                                                                            | Open Source | Uses RDF |
 |----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-------------|----------|
@@ -13,6 +14,7 @@
 | [Ontotext GraphDB](https://www.ontotext.com/products/graphdb/) | A semantic graph database that supports RDF and SPARQL and reasoning.                                                                  | No          | Yes      |
 | [Stardog](https://www.stardog.com/)                            | An enterprise Knowledge Graph platform that supports RDF, SPARQL, and reasoning.                                                       | No          | Yes      |
 
+## Tools
 
 | Tool                                                                                         | Description                                                                                                                      | Open Source |
 |----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|-------------|
@@ -29,9 +31,10 @@
 | [RDF4J Workbench](https://rdf4j.org/documentation/tools/workbench/)                          | A web-based application for managing and interacting with RDF4J repositories.                                                    | Yes         |
 | [SPARQL Endpoint Description Editor](https://github.com/sparql/SparqlEd)                     | A tool for creating and managing SPARQL endpoint descriptions.                                                                   | Yes         |
 | [LodLive](http://en.lodlive.it/)                                                             | A Linked Data visualization tool that allows for exploring and browsing RDF data.                                                | Yes         |
+| [QLever](https://github.com/ad-freiburg/qlever)                                              | A highly efficient SPARQL engine designed to handle massive knowledge graphs.                                                    | Yes         |
 
 
-
+## Query languages
 
 | Language                                                     | Description                                                                                                                                               | Open Source |
 |--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
@@ -45,7 +48,7 @@
 | [Datalog](https://en.wikipedia.org/wiki/Datalog)             | A declarative logic programming language, subset of Prolog, used for deductive databases and often found in graph database systems.                       | Yes         |
 
 
-
+## Knowledge Graphs
 
 | Knowledge Graph                                                              | Description                                                                                                                                                              | Open Source           |
 |------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
