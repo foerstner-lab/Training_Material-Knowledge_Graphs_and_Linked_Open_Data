@@ -215,7 +215,7 @@ Knowledge Graph or Linked Data.
 
 - A review of the semantic web https://dl.acm.org/doi/10.1145/3397512
 - Knowledge Graphs https://dl.acm.org/doi/10.1145/3418294
-
+- [The Linked Open Data Cloud](https://lod-cloud.net/)
 - [What is the Resource Description Framework (RDF)?](https://www.youtube.com/watch?v=NzzAxEPpuJQ)
 - [RDF and OWL : the powerful duo, Tara Raafat](https://www.youtube.com/watch?v=zteyEk9LADs)
 - [SPARQL in 11 minutes](https://www.youtube.com/watch?v=FvGndkpa4K0)
