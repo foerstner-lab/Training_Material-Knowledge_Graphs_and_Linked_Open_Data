@@ -2,6 +2,14 @@
 
 ## Data / Information / Knowledge / Wisdom
 
+<figure>
+  <img
+  src="./images/DIKW_Pyramid.svg"
+  alt="DIKW / Ackoff Pyramid">
+  <figcaption>MDN Logo</figcaption>
+</figure>
+
+
 The **Ackoff Pyramid**, also known as the **DIKW Pyramid**, is a
 framework that illustrates the relationship between data, information,
 knowledge, and wisdom. It was developed by Russell Ackoff and is
