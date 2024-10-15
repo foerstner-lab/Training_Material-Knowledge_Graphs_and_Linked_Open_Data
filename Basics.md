@@ -4,7 +4,7 @@
 
 <figure>
   <img
-  src="./images/DIKW_Pyramid.svg"
+  src="./images/DIKW_Pyramid.png"
   alt="DIKW / Ackoff Pyramid">
   <figcaption>DIKW / Ackoff Pyramid</figcaption>
 </figure>
