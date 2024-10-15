@@ -1,3 +1,42 @@
+# Background
+
+## Data / Information / Knowledge / Wisdom
+
+The **Ackoff Pyramid**, also known as the **DIKW Pyramid**, is a
+framework that illustrates the relationship between data, information,
+knowledge, and wisdom. It was developed by Russell Ackoff and is
+commonly used in knowledge management, information science, and
+decision-making processes. The pyramid highlights the progression from
+raw data to higher levels of understanding and insight.
+The Ackoff Pyramid demonstrates how raw data can evolve into valuable
+wisdom through processing, context, and application.
+
+- **Data**
+  - **Definition**: Raw facts and figures with no context.
+  - **Characteristics**: Unprocessed, unorganized, and lacks meaning on its own.
+  - **Example**: Numbers, dates, names, or any isolated value (e.g., "23°C" or "2024-10-15").
+
+- **Information**
+  - **Definition**: Data that is processed, organized, or structured in a way that provides meaning.
+  - **Characteristics**: Data put into context, allowing for better understanding.
+  - **Example**: "The temperature is 23°C in Barcelona on 2024-10-15."
+
+- **Knowledge**
+  - **Definition**: Information combined with experience, rules, and
+    context, giving it deeper relevance and understanding.
+  - **Characteristics**: Knowledge involves synthesis and
+    interpretation, helping to predict or guide actions.
+  - **Example**: "A temperature of 23°C in Barcelona in October
+    suggests mild weather suitable for outdoor activities."
+
+- **Wisdom (Top of the Pyramid)**
+  - **Definition**: The ability to make sound judgments and decisions
+    based on knowledge and experience.
+  - **Characteristics**: Wisdom integrates knowledge to achieve
+    long-term understanding, foresight, and ethical considerations.
+  - **Example**: "Given the mild weather and upcoming events, it would
+    be wise to organize an outdoor community gathering."
+
 # Introduction
 
 Knowledge Graphs are a sophisticated tools to organize and represent
