@@ -6,7 +6,7 @@
   <img
   src="./images/DIKW_Pyramid.svg"
   alt="DIKW / Ackoff Pyramid">
-  <figcaption>MDN Logo</figcaption>
+  <figcaption>DIKW / Ackoff Pyramid</figcaption>
 </figure>
 
 
