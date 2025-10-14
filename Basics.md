@@ -53,9 +53,9 @@ data management. They leverage concepts from graph theory to model
 relationships between entities in a structured manner.
 
 At the heart of a Knowledge Graph are nodes and edges. Nodes represent
-entities—such as people, organizations, or concepts—while edges denote
-the relationships between these entities. For example, in a Knowledge
-Graph about a movie industry, nodes could include actors and films,
+entities (such as people, organizations,) or concepts while edges
+denote the relationships between these entities. For example, in a
+Knowledge Graph about a movie, nodes could include actors and films,
 and edges would capture relationships like "acted in" or "produced
 by."
 
