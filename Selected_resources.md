@@ -29,3 +29,23 @@
 - [OWL](https://static.twoday.net/71desa1bif/files/W3C-OWL-Overview.pdf)
 - [Cooking the Semantic Web with the OWL API](https://link.springer.com/content/pdf/10.1007/978-3-540-39718-2_42.pdf)
 - [Knowledge Graphs: New Directions for Knowledge Representation on the Semantic Web](https://drops.dagstuhl.de/opus/volltexte/2019/10328/)
+
+
+## To sort:
+
+- A review of the semantic web https://dl.acm.org/doi/10.1145/3397512
+- Knowledge Graphs https://dl.acm.org/doi/10.1145/3418294
+- [The Linked Open Data Cloud](https://lod-cloud.net/)
+- [What is the Resource Description Framework (RDF)?](https://www.youtube.com/watch?v=NzzAxEPpuJQ)
+- [RDF and OWL : the powerful duo, Tara Raafat](https://www.youtube.com/watch?v=zteyEk9LADs)
+- [SPARQL in 11 minutes](https://www.youtube.com/watch?v=FvGndkpa4K0)
+- [The History of Wikidata](https://www.youtube.com/watch?v=P3-nklyrDx4)
+- [Wikidata Sparql Query Tutorial](https://www.youtube.com/watch?v=1jHoUkj_mKw)
+- [A Beginners Guide to Schema.org](https://www.youtube.com/watch?v=_HFRnsv7wFA)
+- [Introduction to Wikibase (part 1)](https://www.youtube.com/watch?v=dCAjhjeJpgY)
+- [Neo4j in 100 Seconds](https://www.youtube.com/watch?v=T6L9EoBy8Zk)
+- [Intro to Graph Databases Episode #3 - Property Graph Model](https://www.youtube.com/watch?v=NH6WoJHN4UA)
+- [Introducing the Open Research Knowledge Graph (ORKG)](https://www.youtube.com/watch?v=d3AqXwPIiGc)
+- [How to: Create visualizations in the Open Research Knowledge Graph (ORKG)](https://www.youtube.com/watch?v=R26TirvZWa0) 
+- [Excursus: DBpedia Knowledge Graph](https://www.youtube.com/watch?v=kxHTEZQSplA)
+- https://github.com/SuLab/WikidataIntegrator
