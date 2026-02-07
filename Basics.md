@@ -270,3 +270,12 @@ Knowledge Graph or Linked Data.
 - Node
 
 - Triple store
+
+- Internationalized Resource Identifier (IRI)
+
+- Universal Ressource Name (URN)
+
+- Uniform Resource Locator (URL)
+
+- Uniform Resource Identifier (URI)
+
